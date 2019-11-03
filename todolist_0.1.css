@@ -1,0 +1,3 @@
+function todolist(){
+    var item = document.getElementById("todoinput")
+}
