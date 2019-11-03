@@ -1,3 +1,51 @@
-function todolist(){
-    var item = document.getElementById("todoinput")
+body {
+    background-image: url(back.jpeg);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    
+}
+
+
+
+
+#container {
+    width: 400px;
+    margin: 100px auto;
+    background-image: url(milky.jpeg);
+    
+}
+
+h2{
+
+     color: red;
+     width:400px;
+     height: 20px;
+     padding: 20px 20px;
+     text-align: center;
+     back
+
+
+}
+
+input {
+
+    
+    width: 400px;
+      
+}
+
+li {
+    background-color: cadetblue;
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px 10px;
+    margin: 10px; 
+    
+}
+
+.done{
+
+    color: grey;
+    text-decoration: line-through;
 }
