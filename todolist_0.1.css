@@ -12,15 +12,16 @@ body {
 #container {
     width: 400px;
     margin: 100px auto;
-    background-image: url(milky.jpeg);
+    background-image: url(https://i.pinimg.com/originals/6a/c1/f8/6ac1f8b613d4e598c189eee15fed01f1.jpg);
     
 }
 
 h2{
 
-     color: red;
+     color: burlywood;
+     background-color: black;
      width:400px;
-     height: 20px;
+     height: 40px;
      padding: 20px 20px;
      text-align: center;
      back
