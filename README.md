@@ -2,4 +2,4 @@
 
  project: To Do List.
  
- Stacks used: HTML,CSS, Javascript.
+ Stacks used: HTML, semantic UI, Javascript.
